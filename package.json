@@ -1,0 +1,22 @@
+{
+  "name": "docker-stop",
+  "version": "0.0.0",
+  "description": "Gracefully shutdown your services and obide to dockers stop specification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docker-stop",
+    "graceful",
+    "shutdown",
+    "exit",
+    "code",
+    "0",
+    "0",
+    "exit",
+    "0"
+  ],
+  "author": "Tom Gallacher",
+  "license": "MIT"
+}
